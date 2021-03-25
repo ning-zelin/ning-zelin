@@ -1,1 +1,1 @@
-Ning_Zelin, a undergraduate studying ML.
+Ning_Zelin, a first-year undergraduate studying ML.
